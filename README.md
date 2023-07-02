@@ -12,3 +12,9 @@ Intel Core i5 6300u
 
 Intel 8265 WiFi
 
+
+Current Issues:
+
+Broken Bluetooth
+
+AirPlay is broken
